@@ -8,4 +8,4 @@ OpenIdea is a software that allows people to have a website similar to the old i
 
 **Bug Reports:** http://dev.openideaproject.com/
 
-**Forums:** http://forums.openideaproject.com/
+**Community Forums:** http://community.openideaproject.com/
